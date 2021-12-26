@@ -1,2 +1,4 @@
-# My-back-end-management-system
-1111
+#安装命令
+##yarn install
+###yarn serve
+####yarn build
