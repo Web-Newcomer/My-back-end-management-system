@@ -6,5 +6,4 @@
 | yarn install      |yarn serve| yarn build|
 
 
-#上线的小程序:
-深海搁浅
+上线的小程序:<br>深海搁浅
